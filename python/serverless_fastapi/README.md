@@ -1,3 +1,7 @@
-# python
+# serverless_fastapi
 
-파이썬 모듈들입니다.
+```
+rm -rf python/*
+pip install -r requirements.txt -t python/
+zip -r layer.zip python/
+```
